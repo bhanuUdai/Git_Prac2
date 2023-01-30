@@ -1,1 +1,6 @@
-hello file 2 and edited in master branch
+
+hello file 2 and edited in master branch but now merging conflicts here for merge process
+=======
+hello file 2
+hi bhanu
+>>>>>>> first_branch
